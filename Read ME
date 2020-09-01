@@ -1,0 +1,12 @@
+This Project includes tow stepper motors, LCD desplay and an arduino.
+-buttons
+-basic resisters
+-basic capacitors
+schematic attached to repository
+
+a sideways movement combined with pan creates a wide angle observation of a object that can either be,
+recorded real-time or timelapsed.
+
+this design is also modular meaning the rails of the slider can be extended to any desired lenght.
+
+ youtube video -https://www.youtube.com/watch?v=IDjUw2wCAJs&t=143s
